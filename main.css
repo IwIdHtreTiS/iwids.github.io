@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(255, 218, 145);
+    display: flex;
+    font-family: "Playwrite IN", serif;
+}
+
+.text {
+    align-items: center;
+    font-family: "Playwrite IN", serif;
+    font-weight: 200;
+    font-size: large;
+    color: gray;
+    font-size: 25px;
+}
+
+.best {
+    align-items: center;
+    font-family: "Playwrite IN", serif;
+    font-weight: 200;
+    font-size: large;
+    color: darkgray;
+    font-size: 40px;
+}
+
+.photo1 {
+    margin-left: 1600px;
+    margin-top: -150px;
+}
+
+.photo2 {
+    margin-top: 600px;
+    margin-left: -820px;
+}
+
+.photo3 {
+    margin-left: -1000px;
+}
